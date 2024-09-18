@@ -139,7 +139,7 @@ describe('Band, Musician, and Song Models', () => {
                 {
                     title: 'Come a little closer',
                     year: 2013,
-                    length: 228
+                    length: 227
                 }
             )
 
